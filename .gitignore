@@ -1,3 +1,7 @@
 *.iml
 .gradle
-./app/build
+/app/build
+
+.gradle-cache
+cmdline-tools
+*.apk
